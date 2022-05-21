@@ -1,0 +1,20 @@
+.stopwatch-container{
+border: 2px solid blue;
+
+width: 50%;
+background-color: aqua;
+margin: auto;
+margin-top: 10%;
+}
+.timer-box{
+    background-color:antiquewhite;
+    height: 50px;
+    margin-top: -20px;
+
+}
+.stopwatchbtn{
+   height: 50px; 
+}
+button{
+    margin-top: 20px;
+}

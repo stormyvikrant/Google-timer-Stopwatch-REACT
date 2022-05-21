@@ -1,0 +1,29 @@
+/* .timer{
+    background-color:yellow
+} */
+.timer-container{
+    border: 2px solid Black;
+    width: 50%;
+    background-color: aqua;
+    margin: auto;
+}
+.input-box{
+    background-color: antiquewhite;
+    margin-top: -10px;
+    height: 50px;
+    justify-content: center;
+}
+.timerinput{
+    padding: 5px 20px;
+    margin-top: 10px;
+}
+.heading{
+    background-color: yellow;
+    margin-top: -20px;
+    height: 50px;
+    justify-content: center;
+}
+.go-btn{
+    padding:5px 20px
+
+}
